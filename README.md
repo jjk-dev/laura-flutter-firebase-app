@@ -34,8 +34,7 @@
 
 
 ### Google play download
-https://play.google.com/store/apps/details?id=com.laura.flower
-
+[![Get it on Google Play](https://raw.github.com/repat/README-template/master/googleplay.png)](https://play.google.com/store/apps/details?id=com.laura.flower)
 
 ## Project structure
 
